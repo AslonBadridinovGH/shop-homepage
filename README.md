@@ -1,3 +1,3 @@
 
-# Getting Started with Create React App  shop-homepage
+# my new react app :   shop-homepage
 
